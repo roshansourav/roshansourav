@@ -27,10 +27,10 @@ Hi, I'm Roshan Kumar, a passionate self-taught Full Stack web developer from Ind
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://github.com/roshansourav/roshansourav/blob/master/assets/java.svg"></code>
-<code><img height="20" src="https://github.com/roshansourav/roshansourav/blob/master/assets/sql.svg"></code>
-<code><img height="20" src="https://github.com/roshansourav/roshansourav/blob/master/assets/linux.svg"></code>
-<code><img height="20" src="https://github.com/roshansourav/roshansourav/blob/master/assets/photoshop.svg"></code>
+<code><img height="40" src="https://github.com/roshansourav/roshansourav/blob/master/assets/java.svg"></code>
+<code><img height="40" src="https://github.com/roshansourav/roshansourav/blob/master/assets/sql.svg"></code>
+<code><img height="40" src="https://github.com/roshansourav/roshansourav/blob/master/assets/linux.svg"></code>
+<code><img height="40" src="https://github.com/roshansourav/roshansourav/blob/master/assets/photoshop.svg"></code>
 <code><img height="20" src="https://github.com/roshansourav/roshansourav/blob/master/assets/php.svg"></code>
 <code><img height="20" src="https://github.com/roshansourav/roshansourav/blob/master/assets/python.svg"></code>
 <code><img height="20" src="https://github.com/roshansourav/roshansourav/blob/master/assets/javascript.svg"></code>
