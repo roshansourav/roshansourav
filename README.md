@@ -21,7 +21,7 @@
 Hi, I'm Roshan Kumar, a passionate self-taught Full Stack web developer from India.
 
 - 🔭 I’m currently persuing MCA from University of Hyderabad
-- 🌱 I’m currently learning MERN Stack
+- 🌱 Learning MERN Stack
 - 👯 I’m looking for an opportunity to work with a company where i can boost up my knowledge and skills.
 - 💬 Ask me about anything [here](https://github.com/roshansourav/roshansourav/issues)
 
