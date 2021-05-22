@@ -38,7 +38,7 @@ Hi, I'm Roshan Kumar, a passionate self-taught Full Stack web developer from Ind
 <code><img height="40" src="https://github.com/roshansourav/roshansourav/blob/master/assets/nodejs.svg"></code>
 <code><img height="40" src="https://github.com/roshansourav/roshansourav/blob/master/assets/cpp.svg"></code>
 <code><img height="40" src="https://github.com/roshansourav/roshansourav/blob/master/assets/git.svg"></code>
-<code><img height="40" src="https://github.com/roshansourav/roshansourav/blob/master/assets/html5.svg"></code>
+<code><img height="40" src="https://github.com/roshansourav/roshansourav/blob/master/assets/aws.svg"></code>
 <code><img height="40" src="https://github.com/roshansourav/roshansourav/blob/master/assets/css3.svg"></code>
 <code><img height="40" src="https://github.com/roshansourav/roshansourav/blob/master/assets/bootstrap.svg"></code>
 <code><img height="40" src="https://github.com/roshansourav/roshansourav/blob/master/assets/mongodb.svg"></code>
