@@ -20,8 +20,9 @@
 
 Hi, I'm Roshan Kumar, a passionate self-taught Full Stack web developer from India.
 
-- 🔭 I’m currently persuing MCA from University of Hyderabad
-- 🌱 Learning MERN Stack
+- 🔭 MCA, University of Hyderabad
+- 🔭 BCA, GGSIPU, Delhi
+- 🌱 Learning React Native
 - 👯 Software Developer at Techsophy
 - 💬 Ask me about anything [here](https://github.com/roshansourav/roshansourav/issues)
 
