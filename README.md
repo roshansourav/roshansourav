@@ -23,7 +23,7 @@ Hi, I'm Roshan Kumar, a passionate self-taught Full Stack web developer from Ind
 - 👯 Software Developer at Techsophy
 - 🔭 MCA, University of Hyderabad
 - 🔭 BCA, GGSIPU, Delhi
-- 🌱 Learning React Native
+- 🌱 Learning Scala/Spark
 - 💬 Ask me about anything [here](https://github.com/roshansourav/roshansourav/issues)
 
 **Languages and Tools:**  
