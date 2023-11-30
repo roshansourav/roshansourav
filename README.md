@@ -20,10 +20,10 @@
 
 Hi, I'm Roshan Kumar, a passionate self-taught Full Stack web developer from India.
 
-- 👯 Software Developer at Techsophy
+- 👯 Backend Developer at Sun King
 - 🔭 MCA, University of Hyderabad
 - 🔭 BCA, GGSIPU, Delhi
-- 🌱 Learning Scala/Spark
+- 🌱 Learning Python / Django
 - 💬 Ask me about anything [here](https://github.com/roshansourav/roshansourav/issues)
 
 **Languages and Tools:**  
